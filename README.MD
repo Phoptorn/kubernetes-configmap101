@@ -1,0 +1,1 @@
+https://scriptcrunch.com/change-nginx-index-configmap/
